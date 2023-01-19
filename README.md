@@ -1,3 +1,3 @@
-# Teste final!!!
+# Exercícios JS
 
-Teste!
+Para atividade Fatecana!
