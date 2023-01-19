@@ -1,0 +1,23 @@
+
+[
+    {
+        "nome": "João da Silva",
+        "idade":"54",
+        "altura": "1.78",
+        "pais": "Brasil"
+    },
+
+    {
+        "nome": "Maria Da Silva",
+        "idade":"23",
+        "altura": "1.58",
+        "pais": "Brasil"
+    },
+
+    {
+        "nome": "Roberto Silva",
+        "idade":"76",
+        "altura": "1.67",
+        "pais": "Brasil"
+    }
+]
